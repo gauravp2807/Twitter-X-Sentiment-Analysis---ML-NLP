@@ -62,7 +62,7 @@ The dataset contains labeled tweets in the following structure:
 | Multinomial Naive Bayes| ~89%     | 0.89     |
 | Random Forest          | ~91%    | 0.9148    |
 
-Best Model: **Logistic Regression** with **F1 Score ≈ 0.9148**
+Best Model: **Random Forest** with **F1 Score ≈ 0.9148**
 
 ---
 
